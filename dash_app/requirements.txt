@@ -1,0 +1,13 @@
+plotly
+dash
+dash_bootstrap_components
+pandas
+scikit-image
+dash_canvas
+joblib
+ipython
+nilearn
+gunicorn
+dash-slicer
+matplotlib
+opencv-python
