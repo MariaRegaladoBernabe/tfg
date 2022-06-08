@@ -10,7 +10,7 @@ Characterization of brain development in preterm children using ultrasound image
 To run this app first clone repository and then open a terminal to the app folder.
 
 ```
-git clone https://github.com/Derther/app_TFM
+git clone https://github.com/MariaRegaladoBernabe/tfg
 
 ```
 
