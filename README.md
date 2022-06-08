@@ -1,4 +1,4 @@
-# Characterization of brain development
+# Aplicación para la caracterización morfométrica cerebral de ecografías de recién nacidos prematuros.
 
 ## About this app
 
