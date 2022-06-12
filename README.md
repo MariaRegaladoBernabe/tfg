@@ -1,48 +1,47 @@
 # Aplicación para la caracterización morfométrica cerebral de ecografías de recién nacidos prematuros.
 
-## About this app
+## Sobre esta App
 
-Characterization of brain development in preterm children using ultrasound images app
+Caracterización del desarrollo cerebral en niños prematuros mediante una aplicación de imágenes ecográficas
 
-## How to run this app
+## Como ejecutar esta App
 
-
-To run this app first clone repository and then open a terminal to the app folder.
+Para ejecutar esta aplicación, primero clona el repositorio y luego abre un terminal en la carpeta de la aplicación.
 
 ```
 git clone https://github.com/MariaRegaladoBernabe/tfg
 
 ```
 
-Create and activate a new virtual environment (recommended) by running
-the following:
+Cree y active un nuevo entorno virtual (recomendado) ejecutando
+lo siguiente:
 
-On Windows
+En Windows
 
 ```
 virtualenv venv
 \venv\scripts\activate
 ```
 
-Or if using linux or mac os
+Si se usa linux o mac os
 
 ```bash
 python3 -m venv myvenv
 source myvenv/bin/activate
 ```
 
-Install the requirements:
+Instala los requerimientos:
 
 ```
 pip install -r requirements.txt
 ```
-Run the app:
+Ejecuta la app:
 
 ```
 python app.py
 ```
 
 
-## Resources
+## Fuentes
 
-To learn more about Dash, please visit [documentation](https://plot.ly/dash).
+Para aprender más sobre Dash, visita [documentation](https://plot.ly/dash).
